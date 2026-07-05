@@ -1,0 +1,2 @@
+# Kome-suliamon
+python assignment
